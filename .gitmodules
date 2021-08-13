@@ -1,0 +1,3 @@
+[submodule "foodManagement-backend"]
+	path = foodManagement-backend
+	url = https://github.com/AtsuyaSakamoto/foodManagement-backend.git
